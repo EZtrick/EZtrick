@@ -1,0 +1,2 @@
+# EZtrick
+Blog
